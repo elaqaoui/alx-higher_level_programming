@@ -1,2 +1,4 @@
---this task inserts a new row into the table
-INSERT INTO `first_table` (`id`, `name`) VALUES (89, "Best School");
+-- this script inserts a new row in the table first_table
+
+INSERT INTO first_table(id, name) VALUES (89, 'Best School');
+
